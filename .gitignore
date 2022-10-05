@@ -16,4 +16,6 @@ share/
 .DS_Store
 env/
 simulations/
-log.txt
+simpylc/
+accessories/
+env/Scripts
